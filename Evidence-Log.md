@@ -27,10 +27,22 @@ Windows, GitHub, draw.io.
 - Exported architecture diagram.
 
 ## Challenges
-Record any errors or difficulties.
+NL
 
 ## Lessons Learned
-Record what you learned and what you need to practise.
+Learned how to create and organize a GitHub repository for cybersecurity projects.
+
+Understood the importance of using a README file to explain a project's purpose, structure, and objectives.
+
+Learned how to document laboratory scope and ethics to ensure that all activities remain authorized and safe.
+
+Gained experience designing a proposed lab architecture to show how the laboratory components will connect and interact.
+
+Learned the importance of organizing project folders to keep documentation, screenshots, diagrams, and other evidence easy to find.
+
+Understood how to maintain an evidence log to document project activities and demonstrate practical work.
+
+Learned that clear documentation and organized evidence are important for presenting cybersecurity projects professionally.
 
 ## Status
-In progress / Completed
+Completed

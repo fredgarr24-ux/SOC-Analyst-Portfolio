@@ -27,7 +27,7 @@ Windows, GitHub, draw.io.
 - Exported architecture diagram.
 
 ## Challenges
-NL
+No major challenges were encountered during the initial repository and documentation setup.
 
 ## Lessons Learned
 Learned how to create and organize a GitHub repository for cybersecurity projects.
